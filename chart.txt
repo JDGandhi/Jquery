@@ -1,0 +1,4 @@
+Pizza 105
+Burger  80
+Pasta 90
+Puff  75
